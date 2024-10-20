@@ -1,1 +1,0 @@
-cp -r mushroom_images /Users/adn-mbp/Github\ Repos/Edible-Mushroom-Prediction/Dataset; find . -name "*.csv" -exec /bin/rm {} \; find . -name "*.txt" -exec /bin/rm {} \;
