@@ -6,7 +6,8 @@ This folder contains the images of mushrooms used in another project.
 ## Folder Structure
 The dataset is divided into three folders: `train`, `test` and `val`.
 
-The `train` folder contains 194 images and the `test` folder contains 3 images of fruits.
+The `train` folder contains 194 images, `val` folder contains 28 images and the `test` folder contains 3 images.
+
 The dataset is divided into 2 classes: `edible` and `poisonous`.
 
 ## Credits
