@@ -11,9 +11,11 @@ The dataset is divided into 2 classes: `edible` and `poisonous`.
 
 ## Credits
 The images used in the dataset are for educational purposes only.
+
 The images were cropped and tranformed to better fit the project reqirements.
 
 The images for the `train` and `val` folders were downloaded from [Ultimate Mushroom](https://ultimate-mushroom.com)
+
 The images for `test` folders were downloaded from [Mushroom Observer](https://mushroomobserver.org)
 
 The `Credits` folder contains the author names and copyright information for the respective images.
