@@ -1,7 +1,7 @@
 # Dataset Folder
 
 ## Introduction
-This folder contains the images of mushrooms used in another project.
+This folder contains the images of mushrooms used in [this project](https://github.com/Akashdip-N/Critical-Analysis-of-Machine-Learning-and-Deep-Learning-Model-for-Mushroom-Classification.git)
 
 ## Folder Structure
 The dataset is divided into three folders: `train`, `test` and `val`, which contains in total of 225 images.
