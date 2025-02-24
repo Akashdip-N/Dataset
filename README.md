@@ -6,14 +6,14 @@ This folder contains the images of mushrooms used in [this project](https://gith
 ## Folder Structure
 The dataset is divided into three folders: `train`, `test` and `val`, which contains in total of 225 images.
 
-The `train` folder contains 194 images, `val` folder contains 28 images and the `test` folder contains 3 images.
+The `train` folder contains 194 images, the `val` folder contains 28 images and the `test` folder contains 3 images.
 
 Each folder is further divided into 2 classes: edible and poisonous.
 
 ## Credits
 The images used in the dataset are for educational purposes only.
 
-The images were cropped and tranformed to better fit the project reqirements.
+The images were cropped and transformed to better fit the project requirements.
 
 The images for the `train` and `val` folders were downloaded from [Ultimate Mushroom](https://ultimate-mushroom.com)
 
